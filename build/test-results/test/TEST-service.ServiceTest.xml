@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="service.ServiceTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-12-05T21:44:19" hostname="R7MIRI" time="35.308">
+  <properties/>
+  <testcase name="friendsOfUser()" classname="service.ServiceTest" time="4.574"/>
+  <testcase name="removeFriend()" classname="service.ServiceTest" time="4.55"/>
+  <testcase name="addUser()" classname="service.ServiceTest" time="4.532"/>
+  <testcase name="numberOfCommunities()" classname="service.ServiceTest" time="6.69"/>
+  <testcase name="addFriend()" classname="service.ServiceTest" time="4.538"/>
+  <testcase name="mostSociableCommunity()" classname="service.ServiceTest" time="10.413"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

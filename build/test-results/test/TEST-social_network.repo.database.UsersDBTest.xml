@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="social_network.repo.database.UsersDBTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-12-05T21:44:59" hostname="R7MIRI" time="2.229">
+  <properties/>
+  <testcase name="getAll()" classname="social_network.repo.database.UsersDBTest" time="0.061"/>
+  <testcase name="remove()" classname="social_network.repo.database.UsersDBTest" time="0.479"/>
+  <testcase name="add()" classname="social_network.repo.database.UsersDBTest" time="1.426"/>
+  <testcase name="size()" classname="social_network.repo.database.UsersDBTest" time="0.061"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
